@@ -1,3 +1,3 @@
 #AppTest#
 
-just trying to learn the fundamentals of git
+from Gitlab checking out Github
